@@ -1,3 +1,11 @@
-# Python-Fundamental-Projects
+**Python Capstone: Employee & Project Data Analysis**
 
-During my Python Fundamental Project (1st–6th July 2025), I worked on cleaning and analyzing employee, seniority, and project datasets to address data quality issues. The situation involved missing project costs, inconsistent name formatting, and mismatched designations that led to project failures. My task was to clean and merge these datasets, apply logical rules, and generate insights for performance evaluation. Using Python, NumPy, and Pandas, I handled missing values, standardized name formats, merged multiple tables, and applied logic to determine employee ranks and bonuses. Additionally, I filtered employees based on city and updated designations for better accuracy. The result was a structured and reliable dataset that supported performance reviews, helped in accurate designation mapping, and provided insights for decision-making. This project strengthened my skills in data cleaning, transformation, and analysis, showcasing my ability to convert raw data into actionable insights.
+Goal: To clean and prepare employee and project datasets for performance insights and reporting.
+
+Description: The project focused on resolving issues in employee, seniority, and project data, which included missing project costs, inconsistent name formats, and designation mismatches. The work involved cleaning datasets, merging multiple tables, applying business rules for ranks and bonuses, and creating filters for city-based employee segmentation.
+
+Skills: data cleaning, data merging, data preprocessing, business rule application, performance analysis.
+
+Technology: Python, Pandas.
+
+Results: Produced a clean and reliable dataset that enabled accurate performance reviews, designation updates, and city-based employee filtering.
